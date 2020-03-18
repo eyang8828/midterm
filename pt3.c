@@ -65,4 +65,5 @@ void tests_square() {
 int main(int argc, const char* argv[]) {
     tests_square();
     return 0;
+    
 }
